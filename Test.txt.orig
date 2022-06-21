@@ -3,7 +3,12 @@ I am in the Branch 1
 
 <<<<<<< HEAD
 I am not in Branch1. I am in Branch2
+
+
+
+What happens if we swap the words Carrot and apple?
+
+
 =======
 I am not in Branch1. I am in Branch2
 >>>>>>> origin/Branch3
-
